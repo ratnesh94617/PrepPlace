@@ -1,0 +1,47 @@
+.head-interview {
+  height: 10%;
+  background-color: #b5eaea;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.heading-i {
+  font-weight: bold;
+  font-size: 40px;
+  font-family: "Arial, Helvetica, sans-serif";
+  padding: 3%;
+  margin-left: -15%;
+}
+.search {
+  width: 20%;
+  padding: 3%;
+}
+
+.display {
+  background-color: #aef799;
+  width: 98%;
+  margin: 10px;
+  padding: 1.5%;
+  padding-left: 1%;
+  box-sizing: border-box;
+  border: 2px solid #31c209;
+  border-radius: 5px 5px;
+
+  color: rgb(34, 33, 33);
+}
+
+.display h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.display p {
+  margin-top: 1.5%;
+}
+
+.collapse-btn {
+  padding: 0.3%;
+  background-color: #b5eaea;
+  border-radius: 10%;
+}

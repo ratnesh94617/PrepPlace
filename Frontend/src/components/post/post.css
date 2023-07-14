@@ -1,0 +1,59 @@
+.post-bg {
+    height: 5%;
+    background-color: #b5eaea;
+    width: 100%;
+}
+
+.post-text {
+    position:relative;
+    top: 6vh;
+    left: 12%;
+    width: 80%;
+}
+
+.post-img > img {
+    height: 20%;
+    width: 10%;
+    position: relative;
+    top: -3vh;
+    left: 2%;
+}
+
+.post-title {
+    margin-left: 2%;
+    width: 20%;
+}
+
+.post-text > textarea {
+    margin-left: -12.5%;
+    margin-right: 4%;
+    height: 400px;
+    width: 90%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding: 12px 20px;
+}
+
+.post-submit {
+    position: relative;
+    top: 10vh;
+    left: 66.5%;
+    /* margin: 10px 50px; */
+    width: 120px;
+    margin-bottom: 100px;
+    padding: 15px;
+    background-color: aquamarine;
+    border-radius: 20px;
+    font-size: 25px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    color: "#6ce5e8";
+    border: 0;
+    box-shadow: inset 0 0 0 0 #aef799;
+    transition: ease-out 0.4s;
+}
+
+.post-submit:hover {
+  box-shadow: inset 200px 0 0 0 #aef799;
+}

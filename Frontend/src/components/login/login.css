@@ -1,0 +1,72 @@
+.login {
+    height: 100vh;
+    display: flex;
+}
+
+.login-right-part {
+    width: 65vw;
+    display: block;
+}
+
+.login-left-part {
+    width: 41.5vw;
+    display: block;
+}
+
+.login-bg {
+    background-color: #b5eaea;
+    background-position: left;
+    width: 40%;
+    height: 100vh;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.login-img img {
+    height: 60%;
+    width: 32%;
+    position:absolute;
+    top: 25vh;
+    left: 3.4%;
+}
+
+.login-logo img {
+    height: 35%;
+    width: 82.5%;
+    position: relative;
+    top: 18vh;
+    left: 8.4%;
+}
+
+.login-text > h3{
+    /* display: flex;     */
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: 0%;
+    font-size: 250%;
+}
+
+.login-user {
+    text-align: center;
+    padding-top: 1%;
+}
+
+.login-signup {
+    text-align: center;
+    margin-top: 0%;
+    text-decoration: underline;
+}
+
+.login-signup:hover {
+    color: #0000EE ;
+    cursor: pointer;
+}
+
+.login-hr {
+    margin-top: 2%;
+    margin-right: 0%;
+    margin-left: 1.5%;
+    border-top: 2px solid black;
+}
+

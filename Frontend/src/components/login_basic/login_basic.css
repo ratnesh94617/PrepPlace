@@ -1,0 +1,51 @@
+.l_b-email {
+    margin-left: 150px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+.l_b-password {
+    margin-left: 150px;
+    margin-right: 100px;
+}
+
+input[type=text]{
+    width: 200%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=password]{
+    width: 222%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.l_b-submit{
+    text-align: center;
+}
+
+input[type=submit] {
+    width: 400px;
+    background-color: black;
+    color: white;
+    padding: 14px 20px;
+    margin: 50px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 18px;
+  }
+
+  input[type=submit]:hover {
+      background-color: #aef799;
+      color: black;
+  }

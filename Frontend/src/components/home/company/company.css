@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro&display=swap");
+.header {
+  height: 5%;
+  background-color: #b5eaea;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.header-img {
+  width: 5%;
+  padding: 0.5% 0.5%;
+  height: 5%;
+  border-radius: 10%;
+}
+
+.company-name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.company-name h1 {
+  font-weight: bold;
+  font-size: 30px;
+  font-family: "Arial, Helvetica, sans-serif";
+  margin: 0;
+}
+
+.info {
+  background-color: #c1f8cf;
+  margin: 2% 0;
+  padding: 1.5% 3%;
+}
+
+.info-heading {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+.info-text {
+  margin-top: 2%;
+  font-size: 120%;
+  font-family: "Lato", sans-serif;
+}
+
+.text-span {
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.question-heading {
+  margin: 2% 0;
+  padding: 0.5% 3%;
+  background-color: #b5eaea;
+}
+
+.question-heading h1 {
+  font-family: "Arial, Helvetica, sans-serif";
+  font-weight: bold;
+  text-align: center;
+}
+
+.question-list {
+  background-color: #aef799;
+  width: 98%;
+  margin: 10px;
+  padding: 0.2%;
+  padding-left: 1%;
+  box-sizing: border-box;
+  border: 2px solid #31c209;
+  border-radius: 5px 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(34, 33, 33);
+  font-size: medium;
+  font-size: 18px;
+}
+.question-list a {
+  margin-left: 1%;
+  text-decoration: none;
+  color: black;
+}
+.question-list a:hover {
+  color: #31c209;
+}
+.check {
+  margin-left: 1%;
+}

@@ -1,0 +1,124 @@
+* {
+    margin:0;
+}
+
+.connect-bg {
+    background-color: #b5eaea;
+    height: 50%;
+    width: 100%;
+    left: 0%;
+    /* top: 0%; */
+}
+
+.connect-search {
+    position: relative;
+    top: -2vh;
+    margin-left: 6%;
+}
+
+.connect-search input {
+    
+    position:relative;
+    top:-17vh;
+    font-size: 100%;
+    padding: 8px;
+    width: 32%;
+    border-radius: 2px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    font-style: italic;
+}
+
+.searchIcon {
+    /* background-color: white; */
+    position: relative;
+    top: -4.5vh;
+    margin-left: 31%;
+    place-items: center;
+}
+
+.connect-search input:focus {
+    outline: none;
+} 
+
+.connect-img > img {
+    height: 200px;
+    width: 220px;
+    position: relative;
+    top: 12vh;
+    left: 70%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.connect-text {
+    position: relative;
+    top: -36vh;
+    left: 6%;
+}
+
+.connect-text > h1 {
+    font-size: 260%;
+    margin-top: 5%;
+    /*margin-top: 8%;*/
+}
+
+.connect-para {
+    margin-top: 25px;
+    font-size: 120%;
+}
+
+.connect-slogan {
+    position: relative;
+    top: -30vh;
+    left: 6%;
+    color: #43f014;
+    font-size: 150%;
+}
+
+.connect-details > h4 {
+    position: relative;
+    top: -24vh;
+    left: 6%;
+    font-size: 120%;
+    /* margin-bottom: 1%; */
+    /* margin-top: 1%; */
+}
+
+.connect-details > ul {
+    position: relative;
+    top: -20vh;
+    left: 5%;
+    /* margin-top: 1%; */
+    font-size: 100%;
+}
+
+.connect-link a img {
+    height: 3vh;
+    position: relative;
+    /* top: 1vh; */
+    left: 10%;
+}
+
+.connect-stripped {
+    width: 100%;
+    margin-left: 1px;
+}
+
+.connect-th {
+    text-align:left;
+    height:50px;
+}
+
+.connect-td {
+    height:45px;
+    font-weight: 450;
+}
+
+.connect-td {
+    margin-top: 100px;
+}
+
+/* td {
+    text-align: center;
+} */

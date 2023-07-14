@@ -1,0 +1,40 @@
+.card {
+  box-shadow: 0 0 10px 5px #e1e5ee;
+  /*width: 320px;*/
+  width: 240px;
+  border-radius: 12px;
+  padding: 25px 0px;
+  float: left;
+  background-color: #b5eaea;
+  margin: 20px 90px;
+  cursor: pointer;
+  transition: all 0, 4s cubic-bezier(0.175, 0.885, 0, 1);
+}
+
+.card:hover {
+  box-shadow: 0px 30px 18px -8px rgba(0, 0, 0, 0.1);
+  transform: scale(1.05, 1.05);
+}
+
+.card img {
+  /* width: 320px;
+  height: 260px; */
+  width:240px;
+  height:200px;
+}
+
+.card-button {
+  margin: 6% 10% 3% 10%;
+  padding: 3%;
+  background: transparent;
+  border: 3px solid #4fd3c4;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: "Arial, Helvetica, sans-serif";
+  color: #4fd3c4;
+}
+
+.card-button:hover {
+  background-color: #4fd3c4;
+  color: whitesmoke;
+}
