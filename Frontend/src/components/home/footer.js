@@ -15,9 +15,9 @@ export default function Footer() {
       <div className="foot1">
         <img src={logo} alt="Error" />
         <p>
-          Address: Banasthali Vidyapith,
+          Address: SGSITS Indore,
           <br></br>
-          Rajasthan<br></br>
+          Madhya Pradesh<br></br>
           Call Us: 923490234
         </p>
       </div>
