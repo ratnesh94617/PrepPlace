@@ -21,7 +21,7 @@ export default function Connect() {
                     <div className="connect-text" >
                         <h1>Connect With Seniors</h1>
                         <p className="connect-para">Let's be a better version of yourself by seeking guidance from seniors.</p>
-                        <p className="connect-para">Here you can connect with college seniors and alumni of BV(Banasthali Vidyapith). </p>
+                        <p className="connect-para">Here you can connect with college seniors and alumni of SGSITS. </p>
                     </div>
                     <p className="connect-slogan">Let's connect and grow!</p>
                 </div>
