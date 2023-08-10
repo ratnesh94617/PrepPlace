@@ -9,7 +9,7 @@ const company = [
   {
     id: 1,
     name: "Goldman Sachs",
-    url: "https://pbs.twimg.com/profile_images/1286311065966579713/JNU4bWC8_400x400.png",
+    url: "https://shorturl.at/gpsN8",
     keyName: "gs",
 
     Sheet: [
@@ -61,7 +61,7 @@ const company = [
   {
     id: 4,
     name: "Oracle",
-    url: "https://pbs.twimg.com/profile_images/1448975437246255105/cc989Pmx_400x400.jpg",
+    url: "https://shorturl.at/zIM78",
     keyName: "oracle",
   },
   {
